@@ -22,9 +22,4 @@ Check out the live website here: [FlowerSelling-ecommerce Live](https://KDcoder0
 **Home Page**  
 ![Home Page](https://github.com/KDcoder07/FlowerSelling-ecommerce/blob/main/img/Home.png?raw=true)
 
----
 
-## 🚀 How to Run Locally
-1. Clone the repo:  
-```bash
-git clone https://github.com/KDcoder07/FlowerSelling-ecommerce.git
